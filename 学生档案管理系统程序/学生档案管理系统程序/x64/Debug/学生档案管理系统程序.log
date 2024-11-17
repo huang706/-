@@ -1,0 +1,5 @@
+﻿  addStudent.c
+  main.c
+  menu.c
+  正在生成代码...
+LINK : fatal error LNK1168: 无法打开 D:\Desktop\C Projects\我的项目\学生档案管理系统\学生档案管理系统程序\学生档案管理系统程序\x64\Debug\学生档案管理系统程序.exe 进行写入
